@@ -1,9 +1,27 @@
 # QR CODE GENERATION
 
-Este é um projeto de gerador de QR Code, desenvolvido para criar facilmente QR Codes a partir de dados fornecidos pelo usuário. Um QR Code é uma representação visual de informações que pode ser escaneada por dispositivos móveis equipados com câmera.
+O Gerador de QR Code é uma ferramenta simples e eficiente que permite a criação de QR Codes personalizados. Com este gerador, você pode converter qualquer texto ou URL em um código QR facilmente.
 
 # FUNCIONALIDADES
 
-> •Geração de QR Codes a partir de diversos tipos de dados, como URLs, textos, números de telefone, endereços de e-mail, entre outros.
+•Geração de QR Code a partir de texto ou URL
 
-> •Personalização do QR Code gerado, incluindo tamanho, cor de fundo e cor dos elementos.
+•Download do código QR gerado em formato de imagem (JPG)
+
+# COMO USAR
+
+1.Acesse a página do Gerador de QR Code.
+
+2.Digite o texto ou cole a URL que deseja converter em QR Code.
+
+3.Clique no botão "Gerar QR Code".
+
+4.Aguarde alguns instantes enquanto o código QR é gerado.
+
+5.Após a conclusão, o código QR será exibido na tela.
+
+6.Para baixar o código QR, clique no botão "Download" e escolha o local de destino.
+
+# REQUISITOS DO SISTEMA
+
+• Navegador web atualizado (recomendamos Google Chrome, Mozilla Firefox ou Microsoft Edge).
